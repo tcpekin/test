@@ -9,3 +9,5 @@ now we move ahead of the master branch
 now i add a little in the master branch, and a second commit
 
 this is the merge commit
+
+and now i add some that should be brought back into the main master branch
