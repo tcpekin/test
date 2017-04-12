@@ -5,3 +5,5 @@ and now moving it a bit more forward
 ok now we test rebasing, adding a little more
 
 here we add some more stuff to move our test branch forward
+
+here we add some more stuff to move our test branch forward, one more spot
